@@ -43,16 +43,6 @@
     </tr>
   </table>
 
-
-## ⚡ Projects
-
-<a href="https://github.com/Jhamile08/RiwiMindset-Frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhamile08&repo=RiwiMindset-Frontend&theme=tokyonight" />
-</a>  
-<a href="https://github.com/Jhamile08/RiwiMindset-Frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhamile08&repo=RiwiMindset-Frontend&theme=tokyonight" />
-</a> 
-
 ----
 
 ### 🔥 GitHub Streak:
