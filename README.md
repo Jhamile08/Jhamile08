@@ -20,7 +20,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="center" style="width: 100%;">
   <table>
     <tr>
       <!-- Columna para Programming Languages -->
@@ -37,7 +37,7 @@
         <h3>💻 Software Tools:</h3>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,intelli,bash,figma,trello,jira&perline=12" />
+            <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,intellij,bash,figma,trello,jira&perline=12" />
           </a>
         </p>
       </td>
