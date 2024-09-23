@@ -20,8 +20,8 @@
 </div>
 <br>
 
-<div align="center" style="width: 100%;">
-  <table>
+<div align="center">
+  <table style="table-layout: fixed; width: 100%;">
     <tr>
       <!-- Columna para Programming Languages -->
       <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; width: 50%;" align="center">
