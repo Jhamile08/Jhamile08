@@ -36,7 +36,7 @@
         <h3>🔥 Software tools:</h3>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bash,figma,trello,jira&perline=12" />
+            <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bash,figma&perline=12" />
           </a>
         </p>
       </td>
@@ -63,7 +63,7 @@
 -----
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay078" alt="jay078" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhamile08" alt="jay078" /> </p>
 
 
 
