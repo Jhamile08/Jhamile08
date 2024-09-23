@@ -55,17 +55,17 @@
 
 ----
 
+### 📈 Contribution Activity Graph:
+
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jhamile08&theme=react-dark&bg_color=20232a&hide_border=true" />
 </p>
 
------
+### 🔥 GitHub Streak:
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhamile08" alt="jay078" /> </p>
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhamile08&theme=dark" />
+</p>
 
 
 
