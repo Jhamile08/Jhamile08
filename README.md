@@ -33,10 +33,10 @@
       </td>
       <!-- Columna para Software Tools -->
       <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; width: 50%;" align="center">
-        <h3>💻 Software Tools:</h3>
+        <h3>💻 Programming Languages:</h3>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bash,figma,trello,jira&perline=12" />
+            <img src="https://skillicons.dev/icons?i=java,js,css,html,react,mysql&perline=12" />
           </a>
         </p>
       </td>
