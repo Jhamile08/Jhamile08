@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <table style="table-layout: fixed; width: 100%;">
+  <table style="table-layout: fixed; width: 100%;" align="center">
     <tr>
       <!-- Columna para Programming Languages -->
       <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; width: 50%;" align="center">
