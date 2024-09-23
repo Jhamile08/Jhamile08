@@ -24,7 +24,7 @@
     <tr>
       <!-- Columna para Programming Languages -->
       <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; width: 50%;" align="center">
-        <h3>💻 Programming Languages:</h3>
+        <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Programming Languages:</b></h3>
         <p align="center">
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=java,js,css,html,react,mysql&perline=12" />
@@ -33,7 +33,7 @@
       </td>
       <!-- Columna para Software Tools -->
       <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; width: 50%;" align="center">
-        <h3>🔥 Software tools:</h3>
+        <h3>💻 Software tools:</h3>
         <p align="center">
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bash,figma&perline=12" />
@@ -44,7 +44,7 @@
   </table>
 
 
-## Projects
+## ⚡ Projects
 
 <a href="https://github.com/Jhamile08/RiwiMindset-Frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhamile08&repo=RiwiMindset-Frontend&theme=tokyonight" />
@@ -55,18 +55,19 @@
 
 ----
 
-### 📈 Contribution Activity Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhamile08&theme=react-dark&bg_color=20232a&hide_border=true" />
-</p>
-
-
 ### 🔥 GitHub Streak:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhamile08&theme=dark" />
 </p>
+
+
+
+
+
+
+
+
 
 
 
