@@ -18,14 +18,21 @@
   <a href="https://www.linkedin.com/in/jhamile-dominguez-ab56bb25a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### 💻 Languages and Tools:
+### 💻 Programming Languages:
  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,css,html,react,mysql,git,github,docker,postman,vscode,intelliJ,bash,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,js,css,html,react,mysql&perline=12" />
+  </a>
+</p> 
+
+### 💻 Software tools:
+ 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,intelli,bash,figma,trello,jira&perline=12" />
   </a>
 </p>
-
 ## Projects
 
 <a href="https://github.com/Jhamile08/RiwiMindset-Frontend">
