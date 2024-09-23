@@ -18,8 +18,8 @@
   <a href="https://www.linkedin.com/in/jhamile-dominguez-ab56bb25a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-  <table>
+<div >
+  <table align="center">
     <tr>
       <!-- Columna para Programming Languages -->
       <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; vertical-align: top;" align="center">
