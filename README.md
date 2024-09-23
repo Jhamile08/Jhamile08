@@ -37,7 +37,7 @@
         <h3>💻 Software Tools:</h3>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,intellij,bash,figma,trello,jira&perline=12" />
+            <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bash,figma,trello,jira&perline=12" />
           </a>
         </p>
       </td>
