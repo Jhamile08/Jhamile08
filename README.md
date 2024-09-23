@@ -20,7 +20,6 @@
 </div>
 <br>
 
-<div align="center">
   <table style="table-layout: fixed; width: 100%;" align="center">
     <tr>
       <!-- Columna para Programming Languages -->
@@ -43,7 +42,7 @@
       </td>
     </tr>
   </table>
-</div>
+
 
 ## Projects
 
