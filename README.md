@@ -7,13 +7,13 @@
 <br>
 <div align="center">
   <a href="https://github.com/jhamile08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelhp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhamile08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelhp&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <div align ="center"> 
   <a href = "mailto:jhamiledr222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/israel-hurtarte-pinto-738245218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jhamile-dominguez-ab56bb25a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ### 💻 Programming languages
