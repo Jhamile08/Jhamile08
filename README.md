@@ -5,7 +5,7 @@
 </p>
 <h4 align="center">Hello!, I'm backend developer learning frontend 😎 . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<a href="https://www.linkedin.com/in/jhamile-dominguez-ab56bb25a" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
@@ -142,13 +142,6 @@
 
 * Credit: [Candida18](https://github.com/Candida18)
 * Last Edited on: 20/07/2021
-
-
-
-
-
-
-
 
 
 
