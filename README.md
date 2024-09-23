@@ -18,21 +18,59 @@
   <a href="https://www.linkedin.com/in/jhamile-dominguez-ab56bb25a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### 💻 Programming Languages:
- 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,css,html,react,mysql&perline=12" />
-  </a>
-</p> 
 
-### 💻 Software tools:
- 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,intelli,bash,figma,trello,jira&perline=12" />
-  </a>
-</p>
+<style>
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px; /* Espacio entre los divs */
+  }
+
+  .box {
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%; /* Ajusta el tamaño de los divs */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column; /* Cambia a columna en pantallas pequeñas */
+      align-items: center;
+    }
+
+    .box {
+      width: 80%; /* Ajusta el ancho en pantallas pequeñas */
+    }
+  }
+</style>
+
+<div class="container">
+  <!-- Div para Programming Languages -->
+  <div class="box">
+    <h3>💻 Programming Languages:</h3>
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,js,css,html,react,mysql&perline=12" />
+      </a>
+    </p>
+  </div>
+
+  <!-- Div para Software Tools -->
+  <div class="box">
+    <h3>💻 Software Tools:</h3>
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,intelli,bash,figma,trello,jira&perline=12" />
+      </a>
+    </p>
+  </div>
+</div>
+
+
 ## Projects
 
 <a href="https://github.com/Jhamile08/RiwiMindset-Frontend">
