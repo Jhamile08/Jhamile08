@@ -33,10 +33,10 @@
       </td>
       <!-- Columna para Software Tools -->
       <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; width: 50%;" align="center">
-        <h3>💻 Programming Languages:</h3>
+        <h3>🔥 Software tools:</h3>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,js,css,html,react,mysql&perline=12" />
+            <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bash,figma,trello,jira&perline=12" />
           </a>
         </p>
       </td>
@@ -62,10 +62,9 @@
 
 -----
 
-<hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay078" alt="jay078" /> </p>
+
 
 
 
