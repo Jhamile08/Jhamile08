@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<h4 align="center">Hello!, I'm backend developer learning frontend 😎 . I like to Code, Design, Innovate and Experiment.  Still in the process of learning in the world of Web Development.</h4>
+<h4 align="center">Hello!, I'm backend developer learning frontend 😎 . I like to Code, Innovate and Experiment.  Still in the process of learning in the world of Web Development.</h4>
 <br>
 <div align="center">
   <a href="https://github.com/jhamile08">
