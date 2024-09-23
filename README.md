@@ -3,15 +3,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<h4 align="center">Hello!, I'm backend developer learning frontend 😎 . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">Hello!, I'm backend developer learning frontend 😎 . I like to Code, Design, Innovate and Experiment.  Still in the process of learning in the world of Web Development.</h4>
 <br>
-<a href="https://www.linkedin.com/in/jhamile-dominguez-ab56bb25a" target="blank" style="text-align: center;"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 
 ### 💻 Programming languages
@@ -99,32 +92,32 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## Projects
 
+<a href="https://github.com/Jhamile08/RiwiMindset-Frontend">
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhamile08&repo=RiwiMindset-Frontend&theme=tokyonight" />
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+</a>  
 
-</details>
+<a href="https://github.com/Jhamile08/RiwiMindset-Frontend">
 
-<br/>
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhamile08&repo=RiwiMindset-Frontend&theme=tokyonight" />
+
+</a> 
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+-----
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
@@ -142,12 +135,6 @@
 
 * Credit: [Candida18](https://github.com/Candida18)
 * Last Edited on: 20/07/2021
-
-
-
-
-
-
 
 
 
