@@ -18,31 +18,30 @@
   <a href="https://www.linkedin.com/in/jhamile-dominguez-ab56bb25a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-<table>
-  <tr>
-    <!-- Columna para Programming Languages -->
-    <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; vertical-align: top;">
-      <h3>💻 Programming Languages:</h3>
-      <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,js,css,html,react,mysql&perline=12" />
-        </a>
-      </p>
-    </td>
-    <!-- Columna para Software Tools -->
-    <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; vertical-align: top;">
-      <h3>💻 Software Tools:</h3>
-      <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,intelli,bash,figma,trello,jira&perline=12" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
+<div align="center">
+  <table>
+    <tr>
+      <!-- Columna para Programming Languages -->
+      <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; vertical-align: top;" align="center">
+        <h3>💻 Programming Languages:</h3>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java,js,css,html,react,mysql&perline=12" />
+          </a>
+        </p>
+      </td>
+      <!-- Columna para Software Tools -->
+      <td style="border: 2px solid #ccc; padding: 20px; border-radius: 10px; vertical-align: top;" align="center">
+        <h3>💻 Software Tools:</h3>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,intelli,bash,figma,trello,jira&perline=12" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Projects
 
