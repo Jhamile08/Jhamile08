@@ -58,7 +58,7 @@
 ### 📈 Contribution Activity Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jhamile08&theme=react-dark&bg_color=20232a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhamile08&theme=react-dark&bg_color=20232a&hide_border=true" />
 </p>
 
 
