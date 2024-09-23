@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<h4 align="center">Hello!, I characterize myself for being a backend developer in constant learning and growth.</h4>
+<h4 align="center">Hello!, I am a backend developer passionate about learning and continuously improving my skills. I specialize in building robust and scalable backend systems, with a particular focus on Java and Spring Boot..</h4>
 <br>
 
 <div align="center">
